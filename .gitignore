@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data and Models
+data/
+cache/
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Downloaded Images
+bus.jpg
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
